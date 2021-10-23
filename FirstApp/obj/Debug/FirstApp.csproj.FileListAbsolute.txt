@@ -13,3 +13,10 @@ D:\Proiecte Medii Vizuale\Pizzeria Colloseo\FirstApp\obj\Debug\FirstApp.csproj.G
 D:\Proiecte Medii Vizuale\Pizzeria Colloseo\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
 D:\Proiecte Medii Vizuale\Pizzeria Colloseo\FirstApp\obj\Debug\FirstApp.exe
 D:\Proiecte Medii Vizuale\Pizzeria Colloseo\FirstApp\obj\Debug\FirstApp.pdb
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\MainWindow.g.cs
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\App.g.cs
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\FirstApp_MarkupCompile.cache
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\FirstApp_MarkupCompile.lref
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\FirstApp.exe
+D:\Medii Vizuale\Pizzeria-Colloseo\FirstApp\obj\Debug\FirstApp.pdb
