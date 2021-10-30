@@ -80,8 +80,7 @@ namespace FirstApp
         {
             get //metoda get 
             {
-                return mIngredients;
-                Info 
+                return mIngredients; 
             }
             set //metoda set 
             {
