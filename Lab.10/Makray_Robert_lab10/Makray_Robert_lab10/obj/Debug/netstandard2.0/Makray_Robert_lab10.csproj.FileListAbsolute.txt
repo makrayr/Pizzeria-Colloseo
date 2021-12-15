@@ -1,0 +1,9 @@
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\Makray_Robert_lab10.csproj.AssemblyReference.cache
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\Makray_Robert_lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\Makray_Robert_lab10.AssemblyInfoInputs.cache
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\Makray_Robert_lab10.AssemblyInfo.cs
+D:\Lab.Medii Vizuale\Pizzeria-Colloseo\Lab.10\Makray_Robert_lab10\Makray_Robert_lab10\obj\Debug\netstandard2.0\Makray_Robert_lab10.csproj.CoreCompileInputs.cache
