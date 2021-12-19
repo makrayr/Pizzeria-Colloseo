@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Sdi0xE9ny9RR308V2tqDRP/3enV+O42F1aOHctkV3W0qPqleSMoTPvC2TrLe8rLZUEruFyvs+i4xYddRCh08fQ==",
+  "dgSpecHash": "NbV2Zr58UYcjbsHHT2b6vzQewBTM7SmtpIa8iBUWZOIha0f78AK/7ce8aLIZ+JjNoi37cfC7NoZEfwtB9aYe1Q==",
   "success": true,
   "projectFilePath": "D:\\Lab.Medii Vizuale\\Pizzeria-Colloseo\\Lab.10\\Makray_Robert_lab10\\Makray_Robert_lab10.Android\\Makray_Robert_lab10.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Robert\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\Robert\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\Robert\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Robert\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",

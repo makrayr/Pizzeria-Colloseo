@@ -8,20 +8,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Makray_Robert_lab10.ListPage.xaml", "ListPage.xaml", typeof(global::Makray_Robert_lab10.ListPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Makray_Robert_lab10.ProductPage.xaml", "ProductPage.xaml", typeof(global::Makray_Robert_lab10.ProductPage))]
 
 namespace Makray_Robert_lab10 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ListPage.xaml")]
-    public partial class ListPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ProductPage.xaml")]
+    public partial class ProductPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::Xamarin.Forms.ListView listView;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ListPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ProductPage));
             listView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listView");
         }
     }
