@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIiqjujefJv9Uo83V6xGpuM3o4yVpSTkJxLcAvJOwrGwjBh3Q9NCYlomHKIT6vNPP48zrxstFNszZ0tk2RBkEw==",
+  "success": true,
+  "projectFilePath": "D:\\Lab.Medii Vizuale\\Pizzeria-Colloseo\\Makray_Robert_Lab.12\\Makray_Robert_Lab12\\Makray_Robert_Lab12\\Makray_Robert_Lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Robert\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}

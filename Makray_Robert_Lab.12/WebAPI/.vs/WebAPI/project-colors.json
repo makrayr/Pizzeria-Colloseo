@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f235c0cf-142b-40bf-b98b-5480a551c455": {
+      "ProjectGuid": "f235c0cf-142b-40bf-b98b-5480a551c455",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ec343e3b-2cc8-4d9a-a505-decbf31a3dcd": {
+      "ProjectGuid": "ec343e3b-2cc8-4d9a-a505-decbf31a3dcd",
+      "DisplayName": "Makray_Robert_Lab12",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
